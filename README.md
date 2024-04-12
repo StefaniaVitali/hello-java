@@ -1,3 +1,3 @@
 # hello-java
 
-progetto java per la realizzazione del primo esercizio
+progetto java per la realizzazione del primo esercizio: StampaSaluto
